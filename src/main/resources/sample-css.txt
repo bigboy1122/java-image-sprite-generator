@@ -1,0 +1,102 @@
+.app-icon{
+	background: url(../img/sprites.png) no-repeat top left;
+	width: 60px;
+	height: 60px;
+	margin: auto;
+}
+
+.icon-ceci-60{
+	background-position: 0 0;
+}
+
+.icon-isite-60{
+	background-position: 0 -63px ;
+}
+
+.icon-cis-60{
+	background-position: 0 -125px ;
+}
+
+.icon-jira-60{
+	background-position: 0 -187px ;
+}
+
+.icon-default-black-60{
+	background-position: 0 -249px ;
+}
+
+.icon-pg-60{
+	background-position: 0 -312px ;
+}
+
+.icon-default-wood-60{
+	background-position: -63px 0;
+}
+
+.icon-registry-60{
+	background-position: -61px -62px ;
+}
+
+.icon-help-60{
+	background-position: -62px -125px ;
+}
+
+.icon-wiki-60{
+	background-position: -63px -189px ;
+}
+
+.icon-home-60{
+	background-position: -63px -250px ;
+}
+
+.icon-sbs-60{
+	background-position: -63px -312px ;
+}
+
+.icon-nipr-60{
+	background-position: -126px 0;
+}
+
+.icon-code-60{
+	background-position: -126px -188px ;
+}
+
+.icon-encats-60{
+	background-position: -125px -62px ;
+}
+
+.icon-gaws-60{
+	background-position: -124px -125px ;
+}
+
+.icon-jenkins-60{
+	background-position: -126px -251px ;
+}
+
+.icon-nusa-60{
+	background-position: -126px -312px ;
+}
+
+.icon-ochequemanager-60{
+	background-position: 0 -373px ;
+}
+
+.icon-ochequeterminal-60{
+	background-position: -61px -373px ;
+}
+
+.icon-optins-60{
+	background-position: -126px -372px ;
+}
+
+.icon-reportservice-60{
+	background-position: -124px -434px ;
+}
+
+.icon-serff-60{
+	background-position: -61px -435px ;
+}
+
+.icon-vision-60{
+	background-position: 0 -434px ;
+}
